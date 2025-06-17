@@ -1,5 +1,17 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: aliceblue;
+}
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+#excuse {
+    background: blue;
+    border-radius: 15px;
+    color: aliceblue;
+    font-size: 40px;
+    padding: 15px;
 }
